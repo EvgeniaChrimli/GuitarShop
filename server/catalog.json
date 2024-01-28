@@ -1,0 +1,51 @@
+[
+  {
+    "id": "el1",
+    "name": "Электрогитара ARIA TEG-002 CA",
+    "img": "https://i.ibb.co/6r4P7FB/calalog1.jpg",
+    "prise": 17850
+  },
+  {
+    "id": "el2",
+    "name": "Электрогитара ARIA TEG-002 3TS",
+    "img": "https://i.ibb.co/jyzS1vK/calalog2.jpg",
+    "prise": 17850
+  },
+  {
+    "id": "el3",
+    "name": "Электрогитара REDHILL TLX100/TBLS",
+    "img": "https://i.ibb.co/dfTSCSg/calalog3.jpg",
+    "prise": 17990
+  },
+  {
+    "id": "el4",
+    "name": "Электрогитара STAGG SEM-ONE H BK",
+    "img": "https://i.ibb.co/Dfj1Vwr/calalog4.jpg",
+    "prise": 17990
+  },
+
+  {
+    "id": "el5",
+    "name": "Электрогитара STAGG SES-55 WHB",
+    "img": "https://i.ibb.co/XzJskQb/2da583e3539c885fee7ab5551efc85fd.jpg",
+    "prise": 18490
+  },
+  {
+    "id": "el6",
+    "name": "Электрогитара STAGG SES-55 SNB",
+    "img": "https://i.ibb.co/McygFzQ/34004582b6364fab106968cdb9ee8a45.jpg",
+    "prise": 18490
+  },
+  {
+    "id": "el7",
+    "name": "Электрогитара STAGG SES-55 BLK",
+    "img": "https://i.ibb.co/z2LHfNN/b46e68dc9bf32bba744aab88d77ad4a1.jpg",
+    "prise": 16990
+  },
+  {
+    "id": "el8",
+    "name": "Электрогитара STAGG SES-60 BLK",
+    "img": "https://i.ibb.co/n034gZF/e313b8a01272d5e070d7785f6eb44052.jpg",
+    "prise": 16990
+  }
+]
